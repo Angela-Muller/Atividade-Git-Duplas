@@ -3,32 +3,39 @@
 ### título 3
 #### título 4
 ---
-##Ênfase de texto
-*itálico*
-**negrito**
+## Ênfase de texto
+
+    *itálico*
+    **negrito**
 ---
-##Listas
+## Listas
+
 - lista 1
 - lista 2
   - sublista
 * lista 3
-###Lista numérica
+### Lista numérica
+
 1. lista num
 2. lista num 2
 3. lista num 3
 ---
-##links
+## links
+
 [link](https://github.com/Angela-Muller)
 ---
-##Imagens
+## Imagens
+
 ![imagem](https://i.pinimg.com/236x/3d/aa/f8/3daaf86faeba7f5320a743e9f8ed3338.jpg)
 ---
-##Codigos
+## Codigos
+
 ```javascript
 console.log("hello world")
 ```
 ---
 ## Citação
+
 > citações
 ---
 ##Tabelas
